@@ -11,5 +11,5 @@ def test_check_test_please(browser):
     elementsPage = ElementsPage(browser)
     demo_qa_page.visit()
     demo_qa_page.btn_elements.click()
-    assert elementsPage.text_please.get_text() == 'Please select an item from left to start practice.'
+    assert elementsPage.text_mid.get_text() == 'Please select an item from left to start practice.'
 
