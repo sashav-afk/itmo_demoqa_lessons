@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d635a54a-b943-4176-89e2-01dbc9a985c6" name="Changes" comment="hw">
+      <change afterPath="$PROJECT_DIR$/pages/form_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/modal_dialogs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_ceo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_hw/test_page_dialogs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_lengh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_navugation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_size.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/tets_login_form.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components.py" beforeDir="false" afterPath="$PROJECT_DIR$/components/components.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/elements_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/elements_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_check_icon_demoqa.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_check_icon_demoqa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_go_to_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_go_to_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_hw/test_check_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_hw/test_check_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_hw/test_visible_hw.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_hw/test_visible_hw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_visible.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_visible.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +60,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_check_icon_demoqa.test_check_icon.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/demoqa/pythonProject1&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_check_icon_demoqa.test_check_icon.executor": "Run",
+    "Python tests.Python tests for test_navugation.test_navigation.executor": "Run",
+    "Python tests.Python tests in test_navugation.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/user/demoqa/pythonProject1"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\demoqa\pythonProject1" />
@@ -59,7 +78,7 @@
       <recent name="C:\Users\user\demoqa\pythonProject1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in test_navugation.py">
     <configuration name="Python tests for test_check_icon_demoqa.test_check_icon" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
       <option name="ENV_FILES" value="" />
@@ -75,8 +94,40 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_navugation.test_navigation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_navugation.test_navigation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_navugation.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject1" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_navugation.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_navugation.py" />
+        <item itemvalue="Python tests.Python tests for test_navugation.test_navigation" />
         <item itemvalue="Python tests.Python tests for test_check_icon_demoqa.test_check_icon" />
       </list>
     </recent_temporary>
@@ -121,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730895385279</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hw">
+      <option name="closed" value="true" />
+      <created>1730897652063</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730897652063</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
