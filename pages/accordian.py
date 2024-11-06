@@ -3,9 +3,9 @@ from components.components import WebElement
 
 class Accordian(BasePage):
 
-    def __init__(self, driver, base_url):
-        self.base_url = 'https://demoqa.com/accordian'
-        super().__init__(driver, base_url)
+    def __init__(self, driver):
+        self.base_url = 'https://demoqa.com/accordian/'
+        super().__init__(driver, self.base_url)
         self.object = WebElement(driver, '#section1Content > p')
         self.head = WebElement(driver, '#section1Heading')
         self.section2_1 = WebElement(driver, '#section2Content > p:nth-child(1)')
