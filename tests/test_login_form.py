@@ -19,3 +19,13 @@ import time
 #     time.sleep(2)
 #     assert form_page.modal_dialog.exist()
 #     form_page.btn_close_modal.click_force()
+
+def test_state(browser):
+    form_page = FormPage(browser)
+
+    form_page.visit()
+    time.sleep(2)
+    form_page.btn_state.scroll_to_element()
+    form_page.btn_state.click()
+    form_page.btn_NCR.click()
+    time.sleep(2)
