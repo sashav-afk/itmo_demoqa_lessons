@@ -16,3 +16,4 @@ class WebTables(BasePage):
         self.btn_submit = WebElement(driver, '#submit')
         self.btns_edit_record = WebElement(driver,'//*[@id="edit-record-1"]', 'xpath')
         self.btns_delite = WebElement(driver, '//*[@id="delete-record-1"]', 'xpath')
+        self.heads_sort = WebElement(driver, '#div.rt-thead.-header > div > div:nth-child(1)')

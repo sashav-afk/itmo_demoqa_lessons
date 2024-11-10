@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d635a54a-b943-4176-89e2-01dbc9a985c6" name="Changes" comment="hw">
-      <change afterPath="$PROJECT_DIR$/pages/web_tables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_hw/test_web_tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/browser_tab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_browser_tab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_hw/test_check_alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_hw/test_check_modal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_seo_meta.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/form_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/form_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_attribute.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_attribute.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_login_form.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/components.py" beforeDir="false" afterPath="$PROJECT_DIR$/components/components.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/elements_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/elements_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/modal_dialogs.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/modal_dialogs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/web_tables.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/web_tables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_ceo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_ceo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731244844849</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hw">
+      <option name="closed" value="true" />
+      <created>1731249866852</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731249866852</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
